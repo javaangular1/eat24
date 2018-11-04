@@ -1,7 +1,7 @@
 {
     "appData": {
-        "bankName": "XYZ Bank",
-        "bankManagerLoginButtonText": "Bank Manager Login",
+        "ProjectName": "Eat24.com",
+        "userLoginButtonText": "User Login",
         "addCustomerButtonText": "Add Customer",
         "openAccountButtonText": "Open Account",
         "customersButtonText": "Customers"

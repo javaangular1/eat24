@@ -9,7 +9,7 @@ exports.config = {
         browserName: 'chrome'
     },
 
-    specs: ['../Tests/DataProvider.spec.js'],
+    specs: ['../Tests/main.spec.js'],
     onPrepare: function () {
         browser.driver.manage().window().maximize();
         jasmine.getEnv().addReporter(new SpecReporter({
@@ -25,7 +25,7 @@ exports.config = {
             preserveDirectory: false,
             screenshotsSubfolder: 'images',
             jsonsSubfolder: 'jsons',
-            docName: 'CyberBank-Report.html'
+            docName: 'Eat24-Report.html'
         }).getJasmine2Reporter());
 
     },
