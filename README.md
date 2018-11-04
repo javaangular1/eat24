@@ -51,4 +51,9 @@ I also changed some codes in this project. So I added two function.
 >>>>>>> 4721b5ab34507e312212e5f08288f96b793813b8
 
 9. bisey yaziyorum
+<<<<<<< HEAD
 >>>>>>> 7fbf417fa92c26c994a18c0a25cf868199b2c4e8
+=======
+
+10. bende biseyler yazdim
+>>>>>>> 8a65ea9f1fa7d24aca26722595ec3a89504523f0
