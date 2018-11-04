@@ -32,4 +32,9 @@ My Second change on Github
 >>>>>>> c7f69f4033826683e5cdb466437662be91b83737
 >>>>>>> e243e90fd0aa80e513f0e2120a182180b043be97
 
+<<<<<<< HEAD
 8. Resul uyurken bunlari yazdim :)
+=======
+
+7. new date changes
+>>>>>>> ec85ea6dda1124b5f5d1190cc657aa2fdb32c2f8
