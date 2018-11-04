@@ -1,3 +1,8 @@
-# eat24
+# eat24 
 
-Cteksans new automation project
+# Protractor - Jasmine project
+
+1. Cteksans new automation project. 20180411
+
+
+
