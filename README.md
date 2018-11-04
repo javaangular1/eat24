@@ -24,4 +24,8 @@ Bla Bla Bla
 
 
 My Second change on Github
->>>>>>> c7f69f4033826683e5cdb466437662be91b83737
+>>>>>>> 
+
+I also changed some codes in this project. So I added two function.
+
+
