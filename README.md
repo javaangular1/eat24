@@ -16,4 +16,5 @@ Bla Bla Bla
 
 My Second change on Github
 
-resul parts
+
+6. commit
