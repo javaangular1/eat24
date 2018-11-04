@@ -44,3 +44,5 @@ My Second change on Github
 >>>>>>> 4721b5ab34507e312212e5f08288f96b793813b8
 
 9. bisey yaziyorum
+
+10. bende biseyler yazdim
