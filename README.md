@@ -31,3 +31,6 @@ My Second change on Github
 =======
 >>>>>>> c7f69f4033826683e5cdb466437662be91b83737
 >>>>>>> e243e90fd0aa80e513f0e2120a182180b043be97
+
+
+7. new date changes
