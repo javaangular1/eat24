@@ -57,3 +57,5 @@ I also changed some codes in this project. So I added two function.
 
 10. bende biseyler yazdim
 >>>>>>> 8a65ea9f1fa7d24aca26722595ec3a89504523f0
+
+11. I changed this code, because it changed function.
