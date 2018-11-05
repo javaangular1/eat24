@@ -2,4 +2,4 @@
 
 # Protractor - Jasmine project
 
-New automation project.
+New automation project for eat24.
