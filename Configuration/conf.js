@@ -9,7 +9,7 @@ exports.config = {
         browserName: 'chrome'
     },
 
-    specs: ['../Tests/main.spec.js'],
+    specs: ['../Tests/Eat24.spec.js'],
     onPrepare: function () {
         browser.driver.manage().window().maximize();
         jasmine.getEnv().addReporter(new SpecReporter({
