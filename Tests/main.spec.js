@@ -189,7 +189,11 @@ describe('4stay.com list your stay functionality', () => {
         browser.sleep(3000);
     });
 
+    it('should test github:)',()=>{
 
+
+
+    });
 
 
     
