@@ -168,11 +168,11 @@ app.controller('ScreenshotReportController', function ($scope) {
 
     var results = [
     {
-        "description": "should get the Title of the navigated page|Drivers GrubHub link functionalities",
+        "description": "should check logo|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 21808,
+        "instanceId": 26960,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -183,229 +183,192 @@ app.controller('ScreenshotReportController', function ($scope) {
             {
                 "level": "WARNING",
                 "message": "https://assets.eat24.com/manifest.json - Manifest: property 'start_url' ignored, should be same origin as document.",
-                "timestamp": 1541484344034,
+                "timestamp": 1541653931444,
                 "type": ""
             },
             {
                 "level": "WARNING",
                 "message": "https://assets.eat24.com/manifest.json - Manifest: property 'scope' ignored, should be same origin as document.",
-                "timestamp": 1541484344034,
-                "type": ""
-            },
-            {
-                "level": "SEVERE",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink - Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.",
-                "timestamp": 1541484347237,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484347737,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484347737,
+                "timestamp": 1541653931445,
                 "type": ""
             }
         ],
-        "screenShotFile": "images\\00b40057-0080-00b0-0000-00030003003c.png",
-        "timestamp": 1541484336837,
-        "duration": 11985
+        "screenShotFile": "images\\004100aa-0009-0060-00a7-000c00a400cf.png",
+        "timestamp": 1541653932566,
+        "duration": 1036
     },
     {
-        "description": "should check visibility of the logos at the Top Left & Right|Drivers GrubHub link functionalities",
+        "description": "should check Sign in button isEnabled|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 21808,
+        "instanceId": 26960,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
         },
         "message": "Passed.",
         "trace": "",
-        "browserLogs": [
-            {
-                "level": "WARNING",
-                "message": "https://assets.eat24.com/manifest.json - Manifest: property 'start_url' ignored, should be same origin as document.",
-                "timestamp": 1541484352578,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://assets.eat24.com/manifest.json - Manifest: property 'scope' ignored, should be same origin as document.",
-                "timestamp": 1541484352578,
-                "type": ""
-            },
-            {
-                "level": "SEVERE",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink - Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.",
-                "timestamp": 1541484355941,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484356450,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484356451,
-                "type": ""
-            }
-        ],
-        "screenShotFile": "images\\000200a0-00ba-0051-001d-0079005000ba.png",
-        "timestamp": 1541484349706,
-        "duration": 7394
+        "browserLogs": [],
+        "screenShotFile": "images\\00b00067-003e-009a-0062-007f00ae0070.png",
+        "timestamp": 1541653935082,
+        "duration": 34
     },
     {
-        "description": "should check the Earn your way,taste success.png|Drivers GrubHub link functionalities",
+        "description": "should check bag button isEnabled|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 21808,
+        "instanceId": 26960,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
         },
         "message": "Passed.",
         "trace": "",
-        "browserLogs": [
-            {
-                "level": "WARNING",
-                "message": "https://assets.eat24.com/manifest.json - Manifest: property 'start_url' ignored, should be same origin as document.",
-                "timestamp": 1541484361253,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://assets.eat24.com/manifest.json - Manifest: property 'scope' ignored, should be same origin as document.",
-                "timestamp": 1541484361253,
-                "type": ""
-            },
-            {
-                "level": "SEVERE",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink - Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.",
-                "timestamp": 1541484364521,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484364975,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484364975,
-                "type": ""
-            }
-        ],
-        "screenShotFile": "images\\00f000b1-0091-00f9-00e5-0033007700a8.png",
-        "timestamp": 1541484357912,
-        "duration": 8830
+        "browserLogs": [],
+        "screenShotFile": "images\\00cc002a-00d4-0038-00ad-006d002c00ad.png",
+        "timestamp": 1541653936683,
+        "duration": 38
     },
     {
-        "description": "should check Become a Grubhub driver... text|Drivers GrubHub link functionalities",
+        "description": "should check the text on home page|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 21808,
+        "instanceId": 26960,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
         },
         "message": "Passed.",
         "trace": "",
-        "browserLogs": [
-            {
-                "level": "WARNING",
-                "message": "https://assets.eat24.com/manifest.json - Manifest: property 'start_url' ignored, should be same origin as document.",
-                "timestamp": 1541484368668,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://assets.eat24.com/manifest.json - Manifest: property 'scope' ignored, should be same origin as document.",
-                "timestamp": 1541484368669,
-                "type": ""
-            },
-            {
-                "level": "SEVERE",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink - Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.",
-                "timestamp": 1541484372049,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484372484,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484372484,
-                "type": ""
-            }
-        ],
-        "screenShotFile": "images\\00370001-00c8-0013-001e-00410021005f.png",
-        "timestamp": 1541484367597,
-        "duration": 5475
+        "browserLogs": [],
+        "screenShotFile": "images\\008e0010-008e-00fd-0056-009200ad0047.png",
+        "timestamp": 1541653938221,
+        "duration": 53
     },
     {
-        "description": "should check visibility and CSS values of the Image|Drivers GrubHub link functionalities",
+        "description": "should check Start your order now text|Eat 24 Group Project",
+        "passed": false,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 26960,
+        "browser": {
+            "name": "chrome",
+            "version": "70.0.3538.77"
+        },
+        "message": [
+            "Expected 'Enter your address or zip code below' to contain 'Start'."
+        ],
+        "trace": [
+            "Error: Failed expectation\n    at UserContext.it (C:\\Users\\XPS9360\\Desktop\\Eat24_GroupProject\\repository\\Tests\\Eat24.spec.js:31:94)\n    at C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7"
+        ],
+        "browserLogs": [],
+        "screenShotFile": "images\\002d0038-00b8-0078-0048-003c00bb00da.png",
+        "timestamp": 1541653939838,
+        "duration": 52
+    },
+    {
+        "description": "should check visibility of check box & Find food button |Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 21808,
+        "instanceId": 26960,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
         },
         "message": "Passed.",
         "trace": "",
-        "browserLogs": [
-            {
-                "level": "WARNING",
-                "message": "https://assets.eat24.com/manifest.json - Manifest: property 'start_url' ignored, should be same origin as document.",
-                "timestamp": 1541484375120,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://assets.eat24.com/manifest.json - Manifest: property 'scope' ignored, should be same origin as document.",
-                "timestamp": 1541484375120,
-                "type": ""
-            },
-            {
-                "level": "SEVERE",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink - Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged.",
-                "timestamp": 1541484378502,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484379272,
-                "type": ""
-            },
-            {
-                "level": "WARNING",
-                "message": "https://driver.grubhub.com/?utm_source=eat24.com&utm_medium=owned_channel&utm_campaign=footerlink 734 A parser-blocking, cross site (i.e. different eTLD+1) script, https://munchkin.marketo.net/munchkin.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.",
-                "timestamp": 1541484379274,
-                "type": ""
-            }
-        ],
-        "screenShotFile": "images\\00f7009b-00d5-00d2-007a-00b8002700f4.png",
-        "timestamp": 1541484373864,
-        "duration": 6066
+        "browserLogs": [],
+        "screenShotFile": "images\\001400b7-00d7-003d-00b2-00c9007100e9.png",
+        "timestamp": 1541653941418,
+        "duration": 78
+    },
+    {
+        "description": "should write smth in search box and hit enter|Eat 24 Group Project",
+        "passed": false,
+        "pending": true,
+        "os": "Windows NT",
+        "instanceId": 26960,
+        "browser": {
+            "name": "chrome",
+            "version": "70.0.3538.77"
+        },
+        "message": "Temporarily disabled with xit",
+        "browserLogs": [],
+        "screenShotFile": "images\\007a00ff-00a6-002c-0011-004300dc00cf.png",
+        "timestamp": 1541653943215,
+        "duration": 0
+    },
+    {
+        "description": "should check the text on banner section|Eat 24 Group Project",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 26960,
+        "browser": {
+            "name": "chrome",
+            "version": "70.0.3538.77"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "images\\00a000f6-00df-006e-001a-0032006600ea.png",
+        "timestamp": 1541653943223,
+        "duration": 36
+    },
+    {
+        "description": "should check the text with FAQs link|Eat 24 Group Project",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 26960,
+        "browser": {
+            "name": "chrome",
+            "version": "70.0.3538.77"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "images\\00ac00e8-0036-0089-00f4-0030004b009a.png",
+        "timestamp": 1541653944732,
+        "duration": 52
+    },
+    {
+        "description": "should check the EAT24 & GRUBHUB Logo bags in the banner|Eat 24 Group Project",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 26960,
+        "browser": {
+            "name": "chrome",
+            "version": "70.0.3538.77"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "images\\00b50067-0008-00a1-0061-00b600d200f3.png",
+        "timestamp": 1541653946435,
+        "duration": 54
+    },
+    {
+        "description": "should check the css value of background-image|Eat 24 Group Project",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "instanceId": 26960,
+        "browser": {
+            "name": "chrome",
+            "version": "70.0.3538.77"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "images\\00fc0033-0074-0058-0079-004a00cf0041.png",
+        "timestamp": 1541653948047,
+        "duration": 51
     }
 ];
 
