@@ -172,7 +172,7 @@ app.controller('ScreenshotReportController', function ($scope) {
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -183,26 +183,26 @@ app.controller('ScreenshotReportController', function ($scope) {
             {
                 "level": "WARNING",
                 "message": "https://assets.eat24.com/manifest.json - Manifest: property 'start_url' ignored, should be same origin as document.",
-                "timestamp": 1541653931444,
+                "timestamp": 1541654713039,
                 "type": ""
             },
             {
                 "level": "WARNING",
                 "message": "https://assets.eat24.com/manifest.json - Manifest: property 'scope' ignored, should be same origin as document.",
-                "timestamp": 1541653931445,
+                "timestamp": 1541654713039,
                 "type": ""
             }
         ],
-        "screenShotFile": "images\\004100aa-0009-0060-00a7-000c00a400cf.png",
-        "timestamp": 1541653932566,
-        "duration": 1036
+        "screenShotFile": "images\\001d000c-0012-0064-008f-006100d70017.png",
+        "timestamp": 1541654714505,
+        "duration": 1046
     },
     {
         "description": "should check Sign in button isEnabled|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -210,16 +210,16 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\00b00067-003e-009a-0062-007f00ae0070.png",
-        "timestamp": 1541653935082,
-        "duration": 34
+        "screenShotFile": "images\\00b7006b-000c-00f3-00e9-0000002400cb.png",
+        "timestamp": 1541654717595,
+        "duration": 70
     },
     {
         "description": "should check bag button isEnabled|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -227,16 +227,16 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\00cc002a-00d4-0038-00ad-006d002c00ad.png",
-        "timestamp": 1541653936683,
-        "duration": 38
+        "screenShotFile": "images\\001300d5-009f-00cd-00fa-000b00970010.png",
+        "timestamp": 1541654719783,
+        "duration": 75
     },
     {
         "description": "should check the text on home page|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -244,37 +244,33 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\008e0010-008e-00fd-0056-009200ad0047.png",
-        "timestamp": 1541653938221,
-        "duration": 53
+        "screenShotFile": "images\\005c005e-0087-0086-004d-00820048003b.png",
+        "timestamp": 1541654722193,
+        "duration": 108
     },
     {
         "description": "should check Start your order now text|Eat 24 Group Project",
-        "passed": false,
+        "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
         },
-        "message": [
-            "Expected 'Enter your address or zip code below' to contain 'Start'."
-        ],
-        "trace": [
-            "Error: Failed expectation\n    at UserContext.it (C:\\Users\\XPS9360\\Desktop\\Eat24_GroupProject\\repository\\Tests\\Eat24.spec.js:31:94)\n    at C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n    at new ManagedPromise (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n    at ControlFlow.promise (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n    at schedulerExecute (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n    at TaskQueue.execute_ (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n    at TaskQueue.executeNext_ (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n    at asyncRun (C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25)\n    at C:\\Users\\XPS9360\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7"
-        ],
+        "message": "Passed.",
+        "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\002d0038-00b8-0078-0048-003c00bb00da.png",
-        "timestamp": 1541653939838,
-        "duration": 52
+        "screenShotFile": "images\\00e900ea-0098-007b-00ad-00e300b1001b.png",
+        "timestamp": 1541654724370,
+        "duration": 63
     },
     {
         "description": "should check visibility of check box & Find food button |Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -282,24 +278,24 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\001400b7-00d7-003d-00b2-00c9007100e9.png",
-        "timestamp": 1541653941418,
-        "duration": 78
+        "screenShotFile": "images\\00a600db-0024-0066-0023-00b5004a0002.png",
+        "timestamp": 1541654726421,
+        "duration": 93
     },
     {
         "description": "should write smth in search box and hit enter|Eat 24 Group Project",
         "passed": false,
         "pending": true,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
         },
         "message": "Temporarily disabled with xit",
         "browserLogs": [],
-        "screenShotFile": "images\\007a00ff-00a6-002c-0011-004300dc00cf.png",
-        "timestamp": 1541653943215,
+        "screenShotFile": "images\\00e300cc-00d5-00ca-0074-00d300ae0055.png",
+        "timestamp": 1541654728431,
         "duration": 0
     },
     {
@@ -307,7 +303,7 @@ app.controller('ScreenshotReportController', function ($scope) {
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -315,16 +311,16 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\00a000f6-00df-006e-001a-0032006600ea.png",
-        "timestamp": 1541653943223,
-        "duration": 36
+        "screenShotFile": "images\\008a002a-000a-0075-001d-001500b70078.png",
+        "timestamp": 1541654728449,
+        "duration": 44
     },
     {
         "description": "should check the text with FAQs link|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -332,16 +328,16 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\00ac00e8-0036-0089-00f4-0030004b009a.png",
-        "timestamp": 1541653944732,
-        "duration": 52
+        "screenShotFile": "images\\00d800fa-002b-0065-00d8-002400980045.png",
+        "timestamp": 1541654730310,
+        "duration": 72
     },
     {
         "description": "should check the EAT24 & GRUBHUB Logo bags in the banner|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -349,16 +345,16 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\00b50067-0008-00a1-0061-00b600d200f3.png",
-        "timestamp": 1541653946435,
-        "duration": 54
+        "screenShotFile": "images\\00f00024-00af-0043-0076-00f900b700fe.png",
+        "timestamp": 1541654732311,
+        "duration": 72
     },
     {
         "description": "should check the css value of background-image|Eat 24 Group Project",
         "passed": true,
         "pending": false,
         "os": "Windows NT",
-        "instanceId": 26960,
+        "instanceId": 17732,
         "browser": {
             "name": "chrome",
             "version": "70.0.3538.77"
@@ -366,9 +362,9 @@ app.controller('ScreenshotReportController', function ($scope) {
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "images\\00fc0033-0074-0058-0079-004a00cf0041.png",
-        "timestamp": 1541653948047,
-        "duration": 51
+        "screenShotFile": "images\\008300c5-0096-00da-0005-004a0095007a.png",
+        "timestamp": 1541654734312,
+        "duration": 50
     }
 ];
 

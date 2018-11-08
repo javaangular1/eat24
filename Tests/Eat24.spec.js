@@ -28,7 +28,7 @@ describe('Eat 24 Group Project', () => {
     });
 
     it('should check Start your order now text', () => {
-        expect($('.startOrder-form-instructions>h6').getText().then((text)=>{return text;})).toContain('Start');
+        expect($('.startOrder-form-instructions>h6').getText().then((text)=>{return text;})).toContain('Enter your address');
     });
 
     it('should check visibility of check box & Find food button ', () => {
