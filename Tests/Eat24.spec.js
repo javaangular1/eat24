@@ -12,6 +12,8 @@ describe('Eat 24 Group Project', () => {
     it('should check logo', function() {
         
         browser.sleep(1000);
+
+        
         expect($('.mainNavBrand-logo').isDisplayed()).toBe(true);
     });
 
